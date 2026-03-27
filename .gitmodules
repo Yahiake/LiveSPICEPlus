@@ -1,3 +1,6 @@
 [submodule "ComputerAlgebra"]
 	path = ComputerAlgebra
 	url = https://github.com/Yahiake/ComputerAlgebra.git
+[submodule "AudioPlugSharp"]
+	path = AudioPlugSharp
+	url = https://github.com/Yahiake/AudioPlugSharp.git
